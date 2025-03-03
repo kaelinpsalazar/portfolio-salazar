@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-salazar",
+  "version": "1.0.0",
+  "description": "Personal Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaelinpsalazar/portfolio-salazar.git"
+  },
+  "author": "Kaelin Salazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaelinpsalazar/portfolio-salazar/issues"
+  },
+  "homepage": "https://github.com/kaelinpsalazar/portfolio-salazar#readme"
+}

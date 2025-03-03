@@ -2,17 +2,18 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: University of Kentucky, B.S. in Environmental Sciences
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+      - Focus in Environmental Policy and Soil Sciences
+    date: Aug. 2009 - May. 2013
+  - title: Turing School of Software & Design
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+      - 1500 hours, 7-month intensive ACCET-accredited software development program.
+      - Full-stack curriculum covering Ruby, Rails, JavaScript, React, and SQL.
+      - Emphasis on agile methodologies, collaboration, and problem-solving in software development.
+      - Strong focus on Object-Oriented Programming, MVC architecture, and API integration.
+    date: April 2024 - Mar. 2025
+  - title: University of Denver
+    description: 
+      -Full Stack Software development Program covering React, Javascript, and SQL. 
+    date: Jul, 2022 - Oct. 2022
