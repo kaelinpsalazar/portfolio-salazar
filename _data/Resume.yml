@@ -1,0 +1,6 @@
+subject: Resume
+listing-order: 5
+icon: "/assets/img/briefcase.svg"
+contents:
+  - description: |
+      You can view my resume using this link: [View My Resume](https://docs.google.com/document/d/1oe8MhCG-etnAEDjEpHdeDM_Yd0C1vYeG/edit)
