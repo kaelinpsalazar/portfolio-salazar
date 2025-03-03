@@ -10,6 +10,6 @@ contents:
     image: "![](./assets/img/Plantie.gif) ![Start](./assets/img/smart-gardening.png) "
   - title: "Music Festival (Solo)([Backend Link](https://github.com/kaelinpsalazar/music_festival_app), [Frontend Link](https://github.com/kaelinpsalazar/final-music-fe)"
     description: 
-      - Full stack Rails application with a react front end. 
+      - Rails application with a react front end. 
       - Designed a music festival management system that allows the admin to access user data and edit that users data as needed. 
     image: "![Start](./assets/img/music_festival.png) "
