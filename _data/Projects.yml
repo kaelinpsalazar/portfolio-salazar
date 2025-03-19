@@ -4,10 +4,17 @@ icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "Smart Gardening (5-Member Group)([Deployed Link](https://smart-gardening-fe.vercel.app/), [Backend Link](https://github.com/sethverrill/smart-gardening-be), [Frontend Link](https://github.com/wally-yawn/smart_gardening_fe))"
     description: 
-      - Integrated OpenAI and Google Cloud API to fetch plant recommendations based on user input and geographical data
-      - Designed a user-friendly interface for seamless plant selection, garden management, and personalized gardening suggestions
-      - "Technology Used: React, Ruby on Rails, OpenAI API, Google Cloud API, PostgreSQL"
+      - The backend, built with Ruby on Rails, follows RESTful API principles to manage user gardens and plant data, storing information in PostgreSQL.
+      - The OpenAI API provides intelligent plant recommendations, while the Google Cloud API delivers images for those recommended plants.
+      - On the frontend we developed an interactive React UI, allowing users to search for plants by hardiness zone, manage their gardens, and explore detailed plant information. API calls dynamically fetch and display data with a clean and responsive interface. 
     image: "![](./assets/img/Plantie.gif) ![Start](./assets/img/smart-gardening.png) "
+  - title: Tracker By Turing (Inherited Project) [Deployed Link](https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/), [Backend Link](https://github.com/turingschool/tracker-crm), [Frontend Link](https://github.com/turingschool/tracker-crm-fe)
+    description: 
+      - Tracker by Turing is a user-friendly job tracking application. Allowing users to keep track of which jobs they have applied for, the application status, etc. 
+      - The backend was built with Ruby on Rails and follows RESTful API principles.
+      - The frontend is a React UI, built using Tailwind CSS,and tested with Cypress.
+    image: "![Start](./assets/img/Screenshot 2025-03-19 at 5.43.43 PM.png)"
+
   - title: "Music Festival (Solo)([Backend Link](https://github.com/kaelinpsalazar/music_festival_app), [Frontend Link](https://github.com/kaelinpsalazar/final-music-fe)"
     description: 
       - Rails application with a react front end. 
